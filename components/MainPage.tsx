@@ -34,10 +34,10 @@ export const MainPage = () => {
                         Face To Many
                     </Link>
                 </div>
-                <div className="mb-8 w-full grid grid-cols-1 gap-2 md:gap-6 lg:gap-10 pl-4 pr-4 md:pl-20 md:pr-20">
+                {/*<div className="mb-8 w-full grid grid-cols-1 gap-2 md:gap-6 lg:gap-10 pl-4 pr-4 md:pl-20 md:pr-20">
                     <div></div>
                     <Link className="text-blue-500" href="/qrcode.jpg" target="__blank">For Chinese user, click here</Link>
-                </div>
+                </div>*/}
                 {/*<AdsHomeTop />*/}
                 <div id="example" className="grid gap-2 grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mt-5">
                     <ReactCompareImage
