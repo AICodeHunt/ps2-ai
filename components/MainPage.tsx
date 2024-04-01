@@ -24,7 +24,7 @@ export const MainPage = () => {
                     AI trend.
                 </h3>
                 <div
-                    className="mb-8 w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-2 md:gap-6 lg:gap-10 pl-4 pr-4 md:pl-20 md:pr-20">
+                    className=" w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-2 md:gap-6 lg:gap-10 pl-4 pr-4 md:pl-20 md:pr-20">
                     <Link href="https://www.disneyaiposter.com/apps/ps2-filter"
                           className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg">
                         PS2 Filter
@@ -33,6 +33,10 @@ export const MainPage = () => {
                           className="bg-green-500 hover-bg-green-600 text-white font-semibold py-3 px-4 rounded-lg">
                         Face To Many
                     </Link>
+                </div>
+                <div className="mb-8 w-full grid grid-cols-1 gap-2 md:gap-6 lg:gap-10 pl-4 pr-4 md:pl-20 md:pr-20">
+                    <div></div>
+                    <Link className="text-blue-500" href="/qrcode.jpg" target="__blank">For Chinese user, click here</Link>
                 </div>
                 {/*<AdsHomeTop />*/}
                 <div id="example" className="grid gap-2 grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mt-5">
