@@ -8,6 +8,7 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 const navigation = [
   { name: 'Home', href: '/' },
   { name: 'PS2 Filter', href: 'https://www.disneyaiposter.com/apps/ps2-filter' },
+  { name: 'Suno AI Free', href: 'https://sunoaifree.com/apps/list' },
 ]
 
 export function Header() {
