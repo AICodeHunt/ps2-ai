@@ -15,6 +15,10 @@ export default function Home() {
                     Welcome to PS2 AI, accessible from ps2ai.com. This Privacy Policy
                     outlines the types of information we collect, how we use it, and the choices you have concerning
                     your data.
+
+                    We do not collect any specific face data beyond detecting the presence of a face for image generation purposes.
+                    The photos used for face detection are immediately deleted after image generation and are not stored or utilized for any other purposes.
+                    We do not share this data with any third parties.
                 </p>
                 <h3 className="text-xl font-semibold mt-6 mb-6">
                     1.Information We Collect
