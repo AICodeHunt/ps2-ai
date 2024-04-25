@@ -29,9 +29,9 @@ export const MainPage = () => {
                           className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg">
                         PS2 Filter
                     </Link>
-                    <Link href="https://www.disneyaiposter.com/apps/face-to-many"
+                    <Link href="https://llama3.dev"
                           className="bg-green-500 hover-bg-green-600 text-white font-semibold py-3 px-4 rounded-lg">
-                        Face To Many
+                        ✨ Llama 3 - Meta AI
                     </Link>
                 </div>
                 <div
