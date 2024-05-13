@@ -126,14 +126,14 @@ export default function Home() {
                     We may update our Privacy Policy from time to time. You are advised to review this Privacy Policy
                     periodically for any changes.
                 </p>
-                <h3 className="text-xl font-semibold mt-6 mb-6">
+                {/*<h3 className="text-xl font-semibold mt-6 mb-6">
                     12.Contact Us
                 </h3>
                 <p>
                     If you have any questions about this Privacy Policy, please contact us at support at
                     <br/>
                     email: contact@ps2ai.com
-                </p>
+                </p>*/}
             </div>
             <Footer/>
         </main>
