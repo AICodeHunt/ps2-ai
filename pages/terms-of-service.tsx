@@ -106,7 +106,7 @@ export default function Home() {
                 <p>
                     If you have any questions about this Terms of Service, please contact us at support at
                     <br/>
-                    email: contact@ps2ai.com
+                    email: enqueueit@gmail.com
                 </p>
             </div>
             <Footer/>
